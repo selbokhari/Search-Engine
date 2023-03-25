@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3 juin 2020, 22:25:58
+    Author     : pc
+*/
+
+body{
+    background-image: url('BG.PNG');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div1{
+    padding: 10px; float: left;  width: auto; display: inline-block; margin:25px ; margin-left: 26px;
+}
+.div2{
+    float: right;  height:auto; width: auto; display: inline-block;  margin: 10px ;  margin-right: 40px;         }
+.div3{
+    padding: 30px; width: auto; display: list-item; margin: 20px;
+
+}
+    .border_d{
+            width: content-box;
+            height: content-box;
+            border: 1px solid;
+            border-color: gainsboro;
+            border-radius: 20px;
+            padding: 5px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+        }
+    .d{
+            width: 810px;
+            height: 45px;
+            border: 1px solid;
+            border-color: dimgrey;
+            border-radius: 20px;
+            padding: 5px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+        }
+.login100-form-btn {
+    font-family: OpenSans-Bold;
+    font-size: 15px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    width: 500px;
+    height: 45px;
+    overflow: hidden;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    background-color: transparent;
+}
+
+.login100-form-btn:hover {
+    background: #111111;
+    font-size: 18px;
+}
+
+
+.login100-form-btn::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: -1;
+    width: 500px;
+    height: 45px;
+    opacity: 0;
+    background: #2575fc;
+    background: -webkit-linear-gradient(right, #6a11cb, #2575fc);
+    background: -o-linear-gradient(right, #6a11cb, #2575fc);
+    background: -moz-linear-gradient(right, #6a11cb, #2575fc);
+    background: linear-gradient(right, #6a11cb, #2575fc);
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+.color1{
+    color: cornflowerblue;
+    font-size: xx-large;
+}
+
