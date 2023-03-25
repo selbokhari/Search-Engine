@@ -1,5 +1,3 @@
-I.	Objectif
-
   1.	Généralité 
 Le mini projet a pour but de réaliser des services web de type rest qui répondent aux exigences de client qui est une application web sert à la gestion des masters de la faculté des sciences Oujda.
 
@@ -13,14 +11,3 @@ Administrateur : il a le droit d’effectuer toutes les opérations concernent l
 Permet de générer la moyenne d’un semestre ainsi que la moyenne générale d’une année et de vérifier l’état de validation.
 	Service Rest 3 :
  Permet d’effectuer des opérations CRUD (Create, Read, Update, Delete) sur la base de données.
-
- 
-II.	Modélisation et réalisation
-
-  1.	Cahier de charge
-Le but de ce projet est la création d’une application qui permet la gestion des étudiants inscrit dans les masters de la faculté des sciences Oujda. 
-Le principe général du fonctionnement logiciel est le suivant :
-	Les administrateurs peuvent générer des informations sur les masters, les semestres, les modules, les étudiants etc.
-	Les étudiants peuvent également se connecter pour consulter leurs notes, générer les relevés de notes et récupérer leurs attestations.
-	Bien évidemment, tout utilisateur de l’application est identifié par un login et un mot de passe.
-
