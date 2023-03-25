@@ -1,4 +1,6 @@
-1.	Généralité 
+I.	Objectif
+
+  1.	Généralité 
 Le mini projet a pour but de réaliser des services web de type rest qui répondent aux exigences de client qui est une application web sert à la gestion des masters de la faculté des sciences Oujda.
 
   2.	Taches principales 
@@ -14,6 +16,7 @@ Permet de générer la moyenne d’un semestre ainsi que la moyenne générale d
 
  
 II.	Modélisation et réalisation
+
   1.	Cahier de charge
 Le but de ce projet est la création d’une application qui permet la gestion des étudiants inscrit dans les masters de la faculté des sciences Oujda. 
 Le principe général du fonctionnement logiciel est le suivant :
