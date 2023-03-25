@@ -1,7 +1,9 @@
   1.	Généralité 
+  
 Le mini projet a pour but de réaliser des services web de type rest qui répondent aux exigences de client qui est une application web sert à la gestion des masters de la faculté des sciences Oujda.
 
   2.	Taches principales 
+  
 Les taches de notre projet sont des opérations fournirent par des services web différents :
 Service Rest 1 :
 	Authentification en deux modes :
